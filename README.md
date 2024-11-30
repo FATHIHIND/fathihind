@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fathihind" alt="fathihind" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a href="hindfathi.com" target="blank">
+- 👨‍💻 All of my projects are available at [hindfathi.com](hindfathi.com)
 
 - 📫 How to reach me **hindfathi.dev@gmail.com**
 
